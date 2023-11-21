@@ -14,7 +14,8 @@ import { Routes, RouterModule } from '@angular/router';
     AppComponent,
     StrengthPipe,
     PostsComponent,
-    PostComponent
+    PostComponent,
+    PostsComponent
   ],
   imports: [
     BrowserModule,
